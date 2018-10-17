@@ -23,5 +23,11 @@
         "psr-4": {
             "Fontis\\Australia\\": ""
         }
-    }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/dooooz/bpay-ref-generator"
+        }
+    ]
 }
